@@ -17,7 +17,7 @@ I have experimented a prototype application using Ethereum by following the tuto
 
 https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
 
-## Code or Application is available upon reqeust
+## Code or Application is available upon request
 
 Because the prototype's size is very huge and it takes a very long to be uploaded, I have decided to provide a screenshot for the size:
 ![Size](https://github.com/CurtinXavierTan/EthereumVoting/blob/master/Screenshot4.png)
