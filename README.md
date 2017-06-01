@@ -27,7 +27,7 @@ The following screenshots will explain what the prototype does.
 The prototype creates 10 random accounts to test with automatically.
 ![Accounts](https://github.com/CurtinXavierTan/EthereumVoting/blob/master/Screenshot1.png)
 
-I have created an Web instance to connect to the blockchain server as shown.
+I have created an Web instance (bottom terminal) to connect to the blockchain server (upper terminal) as shown.
 ![Web](https://github.com/CurtinXavierTan/EthereumVoting/blob/master/Screenshot2.png)
 
 
@@ -38,5 +38,7 @@ After everything is set up, I can either use console to vote or use html page to
 From the screenshot, you can see that whenever I vote a person, the transaction id is shown on the left size of the screenshot.
 
 Block number and block time are also given as well.
+
+You can zoom it for better result.
 
 
